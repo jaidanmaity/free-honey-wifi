@@ -1,1 +1,1 @@
-free Honey wifi automating script
+free HoneyPot wifi automating script
